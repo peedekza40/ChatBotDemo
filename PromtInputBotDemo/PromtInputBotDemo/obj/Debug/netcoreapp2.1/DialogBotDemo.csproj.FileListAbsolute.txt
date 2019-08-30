@@ -1,0 +1,15 @@
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\DialogBotDemo.deps.json
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\DialogBotDemo.runtimeconfig.json
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\DialogBotDemo.runtimeconfig.dev.json
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\DialogBotDemo.dll
+D:\project\DialogBotDemo\DialogBotDemo\bin\Debug\netcoreapp2.1\DialogBotDemo.pdb
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.csprojAssemblyReference.cache
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.csproj.CoreCompileInputs.cache
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.RazorAssemblyInfo.cache
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.RazorAssemblyInfo.cs
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.AssemblyInfoInputs.cache
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.AssemblyInfo.cs
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.RazorTargetAssemblyInfo.cache
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.dll
+D:\project\DialogBotDemo\DialogBotDemo\obj\Debug\netcoreapp2.1\DialogBotDemo.pdb

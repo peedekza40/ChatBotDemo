@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogDemoBot", "DialogDemoBot\DialogDemoBot.csproj", "{A809F03D-A63C-4883-84B1-CACF93B7A71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A809F03D-A63C-4883-84B1-CACF93B7A71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A809F03D-A63C-4883-84B1-CACF93B7A71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A809F03D-A63C-4883-84B1-CACF93B7A71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A809F03D-A63C-4883-84B1-CACF93B7A71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E463B5E-2091-4A81-B388-1D71FEDCFE4E}
+	EndGlobalSection
+EndGlobal
